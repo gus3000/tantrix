@@ -1,0 +1,16 @@
+id,back_color,N,NE,SE,S,SW,NW
+1,y,b,r,y,y,b,r
+2,y,r,b,y,y,b,r
+3,y,r,r,b,b,y,y
+4,r,y,b,y,r,b,r
+5,r,y,r,b,b,r,y
+6,b,r,y,r,b,y,b
+7,b,y,r,b,b,y,r
+8,b,r,y,b,b,r,y
+9,y,y,r,y,b,r,b
+10,r,y,r,b,r,b,y
+11,r,r,b,y,b,y,r
+12,y,r,y,b,y,b,r
+13,b,b,y,r,r,y,b
+14,b,r,y,y,b,b,r
+15,r,g,r,y,y,r,g
